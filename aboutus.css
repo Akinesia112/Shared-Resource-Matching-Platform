@@ -5,7 +5,7 @@ body{
 
 /******group-photo-css******/
 .group-photo > .carousel-inner > .carousel-item > img{
-    clip-path: inset(2em 0 8em 0);
+    clip-path: inset(0 0 8em 0);
 }
 .Hi_there{
     max-width: 20%;
