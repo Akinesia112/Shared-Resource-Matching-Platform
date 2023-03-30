@@ -2,3 +2,16 @@ body{
     background-color: #A49079;
     margin: 0;
 }
+
+/******group-photo-css******/
+.group-photo > .carousel-inner > .carousel-item > img{
+    clip-path: inset(2em 0 8em 0);
+}
+.Hi_there{
+    max-width: 20%;
+    height:auto;
+    position: absolute;
+    top: 53%;
+    right: 6%;
+}
+/***************************/
