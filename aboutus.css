@@ -5,13 +5,14 @@ body{
 
 /******group-photo-css******/
 .group-photo > .carousel-inner > .carousel-item > img{
-    clip-path: inset(0 0 8em 0);
+    clip-path: inset(0 0 20% 0);
 }
 .Hi_there{
     max-width: 20%;
     height:auto;
     position: absolute;
-    top: 53%;
+    top: 49%;
     right: 6%;
 }
+
 /***************************/
